@@ -5,10 +5,7 @@
  * @subpackage Functions
  * @version    1.9.6
  * @since      1.0
- * @author     Ruairi Phelan <rory@cyberdesigncraft.com>
- * @copyright  2013, Cyberdesign Craft
- * @link       http://cyberdesigncraft.com/themes/wordpress/lobster/
- * @license    http://www.gnu.org/licenses/old-licenses/gpl-3.0.html
+ 
  *
  *
  * Defining constants
